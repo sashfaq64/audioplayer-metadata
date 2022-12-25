@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>song2.mp3</file>
+        <file>song1.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>play.png</file>
+        <file>pause.png</file>
+    </qresource>
+</RCC>
